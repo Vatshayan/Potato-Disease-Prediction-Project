@@ -3,6 +3,9 @@ Potato Disease Prediction Project with Code, Documents and video Explanation
 
 ### Youtube Implementation Video : https://youtu.be/VPW8OGHTUrk
 
+![Screenshot 2022-12-29 at 4 26 18](https://user-images.githubusercontent.com/28294942/209942633-fd0568ff-5609-4a59-866f-21d200b3e3c2.png)
+
+
 
 ### Abstract 
 
